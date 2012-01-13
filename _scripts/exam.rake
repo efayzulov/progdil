@@ -30,3 +30,5 @@ require 'yaml'
  end
  end
  end
+ 
+ task :default => :exam
